@@ -1,3 +1,183 @@
 Excel conepts basic to advanced:
 
 https://www.youtube.com/watch?v=OX-iyb-21tk&t=12s
+
+Topshort cut i excel:
+
+Description
+
+Excel Shortcuts 
+
+1. To create a new workbook     -- Ctrl + N
+
+2. To open an existing workbook -- Ctrl + O
+
+3. To save a workbook/spreadsheet -- Ctrl + S
+
+4. To close the current workbook -- Ctrl + W
+
+5. To close Excel -- Ctrl + F4
+
+6. To move to the next sheet -- Ctrl + PageDown
+
+7. To move to the previous sheet -- Ctrl + PageUp
+
+8. To go to the Data tab -- Alt + A
+
+9. To go to the View tab -- Alt + W
+
+10. To go the Formula tab -- Alt + M
+
+11. To edit a cell
+
+F2
+
+12. To copy and paste cells
+
+Ctrl + C, Ctrl + V
+
+13. To italicize and make the font bold
+
+Ctrl + I, Ctrl + B
+
+14. To center align cell contents
+
+Alt + H + A + C
+
+15. To fill color
+
+Alt + H + H
+
+16. To add a border
+
+Alt + H + B
+
+17. To remove outline border
+
+Ctrl + Shift + _
+
+18. To add an outline to the select cells
+
+Ctrl + Shift + &
+
+19. To move to the next cell
+
+Tab
+
+20. To move to the previous cell
+
+Shift + Tab
+
+21. To select all the cells on the right
+
+Ctrl + Shift + Right arrow
+
+22. To select all the cells on the left
+
+Ctrl + Shift + Left Arrow
+
+23. To select the column from the selected cell to the end of the table
+
+Ctrl + Shift + Down Arrow
+
+24. To select all the cells above the selected cell
+
+Ctrl + Shift + Up Arrow
+
+25. To select all the cells below the selected cell
+
+Ctrl + Shift + Down Arrow
+
+
+26. To add a comment to a cell
+
+Shift + F2
+
+27. To delete a cell comment
+
+Shift + F10 + D
+
+28. To display find and replace
+
+Ctrl + H
+
+29. To activate the filter
+
+Ctrl + Shift + L
+
+Alt + Down Arrow
+
+30. To insert the current date
+
+Ctrl + ;
+
+31. To insert current time
+
+Ctrl + Shift + :
+
+32. To insert a hyperlink
+
+Ctrl + k
+
+33. To apply the currency format
+
+Ctrl + Shift + $
+
+34. To apply the percent format
+
+Ctrl + Shift + %
+
+35. To go to the “Tell me what you want to do” box
+
+Alt + Q
+
+36. To select the entire row
+
+Shift + Space
+
+37. To select the entire column
+
+Ctrl + Space
+
+38. To delete a column
+
+Alt+H+D+C
+
+39. To delete a row
+
+Shift + Space, Ctrl + - 
+
+40. To hide selected row
+
+Ctrl + 9
+
+41. To unhide selected row
+
+Ctrl + Shift + 9
+
+42. To hide a selected column
+
+Ctrl + 0
+
+43. To unhide a selected column
+
+Ctrl + Shift + 0
+
+44. To group rows or columns
+
+Alt + Shift + Right arrow
+
+45. To ungroup rows or columns
+
+Alt + Shift + Left arrow
+
+
+47. To ungroup pivot table items
+
+Alt + Shift + Left arrow
+
+49. To create a pivot chart on the same sheet
+
+Alt + F1
+
+
