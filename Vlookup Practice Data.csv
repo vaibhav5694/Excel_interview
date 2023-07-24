@@ -1,0 +1,18 @@
+vlookup														
+										Using VLOOKUP	Using INDEX-MATCH	Using XLOOKUP		
+Name	Gender	Age	Class	Unit Test 1	Unit Test 2	Final Test			Name	Final Test	Final Test			Vrinda
+Abhimanyu	M	16	10	84	79	81			Vrinda	98	98		Class	#NAME?
+Arjun	M	11	5	82	83	91			Gopi	96	96			
+Champa	F	15	8	81	78	88			Madhav	89	89			
+Gopal	M	14	8	70	75	79			Hari	80	80			
+Gopi	F	16	10	88	92	96			Abhimanyu	81	81			
+Hari	M	16	10	82	81	80								
+Indu	F	14	8	90	86	89					 			
+Keshav	M	15	9	87	89	96			Name	A	B	C		
+Lalita	F	17	10	70	90	92			Class	2	4	5		
+Hari	M	11	6	91	81	95	Using HLOOKUP		Batch 	R	Y	T		
+Madhav	M	12	7	86	92	89								
+Sudevi	F	16	10	81	80	87								
+Vidya	F	11	6	88	90	92			Name	A	B	C		
+Visakha	F	16	10	70	87	85			Class	2	4	5		
+Vrinda	F	14	8	91	96	98								
